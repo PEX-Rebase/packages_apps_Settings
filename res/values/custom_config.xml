@@ -15,4 +15,6 @@
     <!-- Whether assist gesture settings should be enabled -->
     <bool name="config_should_enable_assist_gesture_settings">true</bool>
 
+   <!-- Smart Charging -->
+    <bool name="config_supportSmartCharging">false</bool>
 </resources>
