@@ -121,10 +121,6 @@
     <string name="keyboard_extras_title">Extras</string>
     <string name="advanced_keyboard_settings_title">Advanced settings</string>
 
-    <!-- Screen off fod -->
-    <string name="fod_gesture_title">Unlock with fingerprint when the screen is off</string>
-    <string name="fod_gesture_summary">Allows unlocking the device without having to wake up the screen first</string>
-
     <!-- Face Unlock -->
     <string name="face_unlock_method_title">Allow face unlock on lock screen</string>
     <string name="face_unlock_method_default">When the screen is turned on</string>
@@ -181,4 +177,5 @@
     <!-- Hotspot extras -->
     <string name="tethering_allow_vpn_upstreams_title">Allow clients to use VPNs</string>
     <string name="tethering_allow_vpn_upstreams_summary">Permit hotspot clients to use this device\u2019s VPN connections for upstream connectivity</string>
+
 </resources>
