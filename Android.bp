@@ -62,6 +62,7 @@ android_library {
         "custom-preference",
         "faceunlock_framework",
         "vendor.lineage.fastcharge-V1.0-java",
+        "airbnb-lottie"
     ],
 
     libs: [
